@@ -1,0 +1,10 @@
+C:\Users\Constanta\source\repos\Калькулятор\WindowsFormsApp3\bin\x64\Debug\WindowsFormsApp3.exe.config
+C:\Users\Constanta\source\repos\Калькулятор\WindowsFormsApp3\bin\x64\Debug\WindowsFormsApp3.exe
+C:\Users\Constanta\source\repos\Калькулятор\WindowsFormsApp3\bin\x64\Debug\WindowsFormsApp3.pdb
+C:\Users\Constanta\source\repos\Калькулятор\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Constanta\source\repos\Калькулятор\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Constanta\source\repos\Калькулятор\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Constanta\source\repos\Калькулятор\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Constanta\source\repos\Калькулятор\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.exe
+C:\Users\Constanta\source\repos\Калькулятор\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.pdb
+C:\Users\Constanta\source\repos\Калькулятор\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
